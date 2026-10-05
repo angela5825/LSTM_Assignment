@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Large original public dataset (keep a download link in the README instead)
+
+
+tmp_lstmp.ipynb
